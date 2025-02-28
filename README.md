@@ -8,7 +8,8 @@ This project provides an in-depth analysis of Adidas' sales performance in the U
 **Top Retailers by Profit**: West Gear, Foot Locker, Sports Direct, Kohl’s, Amazon, Walmart<br>
 **Top Cities by Profit**: Charleston, New York, Miami, Portland, San Francisco<br>
 **Sales Distribution**: Across online, outlet, and in-store channels<br>
-The dataset explores sales trends over time (2020-2021) and provides insights into product categories such as Men's and Women's Footwear and Apparel.<br>
+
+- The dataset explores sales trends over time (2020-2021) and provides insights into product categories such as Men's and Women's Footwear and Apparel.<br>
 
 **Features**:
 - Breakdown of sales by year, region, and sales method
